@@ -1,0 +1,10 @@
+python -m pip install lib/numpy-1.9.2+mkl-cp27-none-win32.whl
+python -m pip install lib/PyOpenGL-3.1.1a1-cp27-none-win32.whl
+python -m pip install lib/PyOpenGL_accelerate-3.1.1a1-cp27-none-win32.whl
+python -m pip install lib/wxPython-3.0.2.0-cp27-none-win32.whl
+python -m pip install lib/PyDispatcher-2.0.5-py2.py3-none-any.whl
+python -m pip install lib/pygame-1.9.2a0-cp27-none-win32.whl
+python -m pip install lib/pyglet-1.2.2-py2-none-any.whl
+python -m pip install lib/PyVRML97-2.3.0b1-py2-none-any.whl
+python -m pip install lib/PyVRML97_accelerate-2.3.0b1-cp27-none-win32.whl
+python -m pip install lib/TTFQuery-1.0.5-py2-none-any.whl

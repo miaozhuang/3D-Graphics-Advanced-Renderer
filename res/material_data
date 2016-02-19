@@ -1,0 +1,92 @@
+newmtl metal
+Ka  0.600 0.600 0.600
+Kd  0.600 0.600 0.600
+Ks  0.900 0.900 0.900
+alpha  1.000
+Ns  32.000
+illum 3
+
+newmtl diffuse_1
+Ka  0.880 0.000 0.000
+Kd  0.880 0.000 0.000
+Ks  0.500 0.900 0.900
+alpha  1.000
+Ns  30.000
+illum 0
+
+newmtl diffuse_2
+Ka  1.000 1.000 1.000
+Kd  1.000 1.000 1.000
+Ks  0.900 0.900 0.500
+alpha  1.000
+Ns  32.000
+illum 0
+
+newmtl textured_1
+Ka  0.600 0.600 0.600
+Kd  1.000 1.000 1.000
+Ks  0.900 0.900 0.900
+alpha  1.000
+Ns  32.000
+map 1 0 0 # texture map, norm map, bump map
+illum 0
+
+newmtl water
+Ka  0.100 0.400 0.800
+Kd  0.200 0.200 0.600
+Ks  0.800 1.00 1.00
+alpha  1
+Ns 4.000
+illum 0
+
+newmtl textured_2 #5
+Ka  0.600 0.600 0.600
+Kd  1.000 1.000 1.000
+Ks  0.900 0.900 0.900
+alpha  1.000
+Ns  32.000
+map 1 0 0 #texture map, norm map, bump map
+illum 0
+
+newmtl Gold #6
+Ka 1.000 1.000 0.003
+Kd 0.000 0.078 0.072
+Ks 0.500 0.500 0.000
+alpha 0.2
+Ns 96.000
+illum 3
+
+newmtl Silver #7
+Ka  0.600 0.600 0.600
+Kd  1.000 1.000 1.000
+Ks  0.900 0.900 0.900
+alpha 1
+Ns 96.000
+illum 0
+
+newmtl textured_2 #8
+Ka  0.600 0.600 0.600
+Kd  1.000 1.000 1.000
+Ks  0.900 0.900 0.900
+alpha  1.000
+Ns  32.000
+map 1 0 0 #texture map, norm map, bump map
+illum 0
+
+newmtl textured_2 #9
+Ka  0.600 0.600 0.600
+Kd  1.000 1.000 1.000
+Ks  0.900 0.900 0.900
+alpha  1.000
+Ns  32.000
+map 1 0 0 #texture map, norm map, bump map
+illum 0
+
+newmtl water_2  #10
+Ka  0.125 0.510 0.750
+Kd  0.125 0.510 0.750
+#Ks  0.125 0.510 0.750
+Ks 	0.700 0.700 0.700
+alpha  1
+Ns 4.000
+illum 0
